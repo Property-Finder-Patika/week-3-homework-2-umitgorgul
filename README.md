@@ -7,3 +7,5 @@
   https://github.com/inancgumus/learngo Chapters 22,24 and 25.
     
 ## Do not forget to commit the initial and final work.
+
+inancgumus/learngo icerisinde chp 24 ve 25 yapmak icin yetistiremedim 22 icerisinde 3 ornekten birini yaptim .
